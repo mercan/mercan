@@ -17,4 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mercan&icon=2&color=12)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=mercan&style=for-the-badge&color=brightgreen)
