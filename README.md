@@ -30,4 +30,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mercan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mercan&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mercan&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
