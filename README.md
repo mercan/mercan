@@ -33,4 +33,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mercan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=mercan&label=Profile%20Views&color=12&icon=2&pretty=false) ![GitHub followers](https://img.shields.io/github/followers/mercan?label=Follow&style=social)
+![](https://visitcount.itsvg.in/api?id=mercan&label=Profile%20Views&color=12&icon=2&pretty=false)
+![](https://img.shields.io/github/followers/mercan?label=Follow&style=social)
