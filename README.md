@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🌍 I'm based in Yalova, Turkey<br>
 🌱 I’m currently learning Golang<br>
 ✉️ You can contact me at imrcn77@gmail.com<br>
 
