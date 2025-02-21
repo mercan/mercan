@@ -8,7 +8,7 @@
 const mercan = {
     code: ["Golang", "TypeScript", "JavaScript"],
     technologies: {
-        backEnd: ["Fiber", "Echo", "Node"],
+        backEnd: ["Fiber", "Echo", "Fastify", "Express"],
         devOps: ["Google Cloud", "Docker"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
         other: ["Swagger"],
