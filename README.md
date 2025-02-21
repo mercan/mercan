@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Golang<br>
+🌱 I’m currently learning Golang, microservices<br>
 ✉️ You can contact me at imrcn77@gmail.com<br>
 
 ---
