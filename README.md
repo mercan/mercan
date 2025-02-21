@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Golang, microservices<br>
+🌱 I’m currently learning MicroServices<br>
 ✉️ You can contact me at imrcn77@gmail.com<br>
 
 ---
@@ -8,7 +8,7 @@
 const mercan = {
     code: ["Golang", "TypeScript", "JavaScript"],
     technologies: {
-        backEnd: ["Fiber", "Echo", "Node"]
+        backEnd: ["Fiber", "Echo", "Node"],
         devOps: ["Google Cloud", "Docker"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
         other: ["Swagger"],
