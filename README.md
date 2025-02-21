@@ -5,7 +5,7 @@
 
 ---
 ```javascript
-const serkan = {
+const mercan = {
     code: ["Golang", "TypeScript", "JavaScript"],
     technologies: {
         backEnd: ["Fiber", "Echo", "Node"]
