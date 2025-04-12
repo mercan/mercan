@@ -11,7 +11,7 @@ const mercan = {
         backEnd: ["Fiber", "Echo", "Fastify", "Express"],
         devOps: ["Google Cloud", "Docker"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
-        other: ["Swagger"],
+        other: ["RabbitMQ", "Swagger"],
     },
     architecture: ["(learning) MicroServices"],
 };
