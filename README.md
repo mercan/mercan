@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning MicroService<br>
+🌱 I’m currently learning Microservice<br>
 ✉️ You can contact me at imrcn77@gmail.com<br>
 
 ---
