@@ -9,8 +9,8 @@ const ibrahim = {
     code: ["Node.js", "Golang", "TypeScript", "JavaScript"],
     technologies: {
         backEnd: ["Fiber", "Echo", "Fastify", "Express"],
-        devOps: ["Google Cloud", "Docker"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
+        devOps: ["Google Cloud", "Docker"],
         other: ["RabbitMQ", "Swagger"],
     },
     architecture: ["(learning) MicroServices"],
