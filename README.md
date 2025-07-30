@@ -20,3 +20,5 @@ const ibrahim = {
 ---
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrcn)
+
+[![İbrahim Mercan profile views](https://u8views.com/api/v1/github/profiles/54823048/views/day-week-month-total-count.svg)](https://u8views.com/github/mercan)
