@@ -6,7 +6,7 @@
 ---
 ```javascript
 const ibrahim = {
-    code: ["Golang", "TypeScript", "JavaScript"],
+    code: ["Node.js", "Golang", "TypeScript", "JavaScript"],
     technologies: {
         backEnd: ["Fiber", "Echo", "Fastify", "Express"],
         devOps: ["Google Cloud", "Docker"],
