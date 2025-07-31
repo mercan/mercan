@@ -20,3 +20,6 @@ const ibrahim = {
 ---
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrcn)
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mercan&label=Profile%20views&color=0e75b6&style=flat" /> </p>
